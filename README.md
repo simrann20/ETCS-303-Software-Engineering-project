@@ -8,4 +8,5 @@ A SE project has the following aspects in a feasibility report:
 1. Objective 
 2. Description
 3. Problem in existing system
-
+4. Cost Analysis
+5. Future Scope
