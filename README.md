@@ -12,4 +12,4 @@ A SE project has the following aspects in a feasibility report:
 5. Future Scope
 
 The Software Requiremnet specification report has the following :
-
+All the specifications about the project 
